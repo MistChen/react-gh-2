@@ -1,7 +1,7 @@
 {
   "name": "tut-github",
   "version": "0.1.0",
-  "homepage": "https://mistchen.github.io/react-gh",
+  "homepage": "https://MistChen.github.io/react-gh-2",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
